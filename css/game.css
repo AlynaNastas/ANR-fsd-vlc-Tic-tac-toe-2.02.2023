@@ -3,34 +3,38 @@ body{
 }
 
 .tic{
-    background-color: green;
+    background-color: rgb(6, 7, 6);
     height: 10vh;
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(32, 190, 32);
 }
 .box2{
     height: 80vh;
 }
-.box2-1{
+.box{
     background-color: rgb(217, 50, 50);
 }
-.box2-2{
-    background-color: coral;
-}
-.box3{
-    background-color: rgb(233, 22, 162);
-
+.box1{
+    background-color: rgb(6, 6, 6);
+    
 }
 .box3-1{
-    background-color: darkgray;
+    background-color: rgb(84, 50, 50);
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(32, 190, 32);
 
 }
 .box3-2{
-    background-color: darkkhaki;
+    background-color: rgb(54, 54, 51);
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(32, 190, 32);
 }
 .container{
-    background-color: deepskyblue;
+    background-color: rgb(3, 3, 3);
     display: grid;
     grid-template-columns: 1fr 1fr 1fr ;
-    grid-template-rows: 4fr 4fr 4fr  ;
+    grid-template-rows: 4fr 4fr 4fr;
+    color: aliceblue;
 }
 /*medidas de la cuadricula*/
 .measure{
@@ -38,7 +42,7 @@ body{
     height: 45vh;
 }
 .luz{
- padding-top: 6vh;
+padding-top: 6vh;
 }
 
 
