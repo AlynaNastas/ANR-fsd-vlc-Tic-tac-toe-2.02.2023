@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+.box{
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(32, 190, 32);
+}
+a{
+    text-decoration: none;
+    color: rgb(32, 190, 32);
+}
