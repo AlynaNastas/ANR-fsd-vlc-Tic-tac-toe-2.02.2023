@@ -30,7 +30,7 @@ body{
     color: rgb(32, 190, 32);
 }
 .container{
-    background-color: rgb(3, 3, 3);
+    background-color: black;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr ;
     grid-template-rows: 4fr 4fr 4fr;
@@ -41,12 +41,24 @@ body{
     width: 45vh;
     height: 45vh;
 }
+
 .luz{
 padding-top: 6vh;
+cursor: pointer;}
+
+
+.luz:hover{
+scale: 1.1;
+transition: 03s;
 }
+
 a{
     text-decoration: none;
     color: rgb(32, 190, 32);
+}
+
+.luz2{
+    background-color: aliceblue;
 }
 
 

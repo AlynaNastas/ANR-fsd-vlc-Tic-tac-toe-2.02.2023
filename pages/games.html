@@ -9,14 +9,14 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./css/game.css">
+    <link rel="stylesheet" href="../css/game.css">
     <title>Tictactoe</title>
 </head>
 <body>
     <!-- Header of the main page -->
     <div class="container-fluid text-center text-uppercase">
         <div class="row tic">
-            <div class="col d-flex justify-content-center align-items-center"> <a href="./index.html">Tic tac toe</a></div>
+            <div class="col d-flex justify-content-center align-items-center"> <a href="../index.html">Tic tac toe</a></div>
         </div>
     </div>
     <!-- Container of the game -->
@@ -25,15 +25,15 @@
             <div class="col-12 col-lg-4 box d-flex justify-content-center align-items-center">es turno de "let= player" </div>
             <div class="col-12 col-lg box1 d-flex justify-content-center align-items-center">
                 <div class="container measure">
-                    <div class="luz border-end border-bottom border-success">1</div>
-                    <div class="luz border-end border-bottom border-success">2</div>
-                    <div class="luz border-bottom border-success">3</div>
-                    <div class="luz border-end border-success">4</div>
-                    <div class="luz border-end border-success">5</div>
-                    <div class="luz ">6</div>
-                    <div class="luz border-end border-top border-success ">7</div>
-                    <div class="luz border-end border-top border-success">8</div>
-                    <div class="luz border-top border-success">9</div>
+                    <div class="luz border-end border-bottom border-success" id = "0">1</div>
+                    <div class="luz border-end border-bottom border-success" id = "1" >2</div>
+                    <div class="luz border-bottom border-success" id = "2">3</div>
+                    <div class="luz border-end border-success" id = "3">4</div>
+                    <div class="luz border-end border-success" id = "4">5</div>
+                    <div class="luz " id = "5">6</div>
+                    <div class="luz border-end border-top border-success" id = "6">7</div>
+                    <div class="luz border-end border-top border-success" id = "7">8</div>
+                    <div class="luz border-top border-success" id = "8">9</div>
                 </div>
             </div>
             </div>
@@ -45,5 +45,7 @@
             <div class="col-12 col-sm-6 col-lg d-flex justify-content-center align-items-center box3-2">Player O</div>
         </div>
     </div>
+
+    <script src="./js/main.js"></script>
 </body>
 </html>
