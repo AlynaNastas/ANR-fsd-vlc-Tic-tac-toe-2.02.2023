@@ -17,14 +17,14 @@ El respositorio se encuentra en GitHub, aquí les adjunto el enlace:https://gith
 
 
 
-#Características a destacar :round_pushpin:
+# Características a destacar :round_pushpin:
 
 Dos Jugadores.
 Introducimos los nombres de los jugadores y nos lleva al tablero principal del juego.
 Boton de "restart", volver a empezar el juego.:back:
 
 
-##Reglas del Juego
+## Reglas del Juego
 Dos jugadores por turnos: marcando la "X" y la "O" en espacios vacíos, compuesto por 3 columnas y tres filas. :x: :o:
 El jugador con la "X" empieza. el primer jugador en marcar las tres fichas en vertical, horizontal, o diagonal gana el juego.
 
