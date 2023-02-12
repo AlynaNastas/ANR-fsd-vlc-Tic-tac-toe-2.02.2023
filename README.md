@@ -17,7 +17,7 @@ El respositorio se encuentra en GitHub, aquí les adjunto el enlace:https://gith
 
 
 
-# Características a destacar :round_pushpin:
+## Características a destacar :round_pushpin:
 
 - Dos Jugadores.
 
@@ -32,7 +32,8 @@ El respositorio se encuentra en GitHub, aquí les adjunto el enlace:https://gith
 - El jugador con la "X" empieza. el primer jugador en marcar las tres fichas en vertical, horizontal, o diagonal gana el juego.
 
 
-Más características próximamente! :construction: Este juego esta en proceso de desarrollo!:wrench:
+
+##  Más características próximamente! :construction: Este juego esta en proceso de desarrollo!:wrench:
 
 
 ![principal](https://user-images.githubusercontent.com/121962750/218306005-4e8d4fba-276e-4c83-b6e1-5ef5da090caa.png)
