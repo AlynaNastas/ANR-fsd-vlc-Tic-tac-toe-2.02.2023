@@ -38,8 +38,8 @@ El respositorio se encuentra en GitHub, aquí les adjunto el enlace:https://gith
 
 ![principal](https://user-images.githubusercontent.com/121962750/218306005-4e8d4fba-276e-4c83-b6e1-5ef5da090caa.png)
 ![juego](https://user-images.githubusercontent.com/121962750/218306014-30a9feb0-4f50-4451-b114-e40b8bf338d2.png)
-![restart](https://user-images.githubusercontent.com/121962750/218306025-681f7a31-4a73-47b7-b446-596cdc8a9dfe.png)
-![try harder](https://user-images.githubusercontent.com/121962750/218306323-68ce0a95-e34c-4f63-9049-a780a0fb51f9.png)
+![re](https://user-images.githubusercontent.com/121962750/218306500-62bd1cdd-934a-41e9-8772-56d49b5f412b.png)
+![try](https://user-images.githubusercontent.com/121962750/218306504-46dcfb60-9aa6-48fb-a6fa-b111160a3b62.png)
 
 ## License
 
