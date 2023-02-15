@@ -1,6 +1,8 @@
+//DOCUMENT es para todo nuestro HTML , es para saber qué ID coger, con el VALOR que va dentro.
+
+
 
 const play = () => {
-//DOCUMENT es para todo nuestro HTML , es para saber qué ID coger, con el VALOR que va dentro.
 
     let player1 = document.getElementById("P1").value;
     let player2 = document.getElementById("P2").value;

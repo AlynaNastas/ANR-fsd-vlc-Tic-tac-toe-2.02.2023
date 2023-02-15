@@ -1,15 +1,18 @@
 // Recupera los nombres del sessionstorage y mostrarlo donde corresponde
 const showPlayersName = () => {
+
     document.getElementById("P1").innerHTML = sessionStorage.getItem("nombre1")
     document.getElementById("P2").innerHTML = sessionStorage.getItem("nombre2")
 }
 
 showPlayersName();
-const play1 = "X";
-const play2 = "O";
+
+const play1 = "X"
+const play2 = "O"
 
 let count1 = 0;
 let count2 = 0;
+
 
 
 //Iniciamos todas las celdas vacías
@@ -51,51 +54,52 @@ const pressCell = (position) => {
 }
 
 
-const showWinner = () =>{
+const showWinner = (ganador ) =>{
 
-    if(play1 === true){
-
-    }else{
-
+if(ganador == "play1" ){
+    window.location.href= "../pages/winner.html"
+    
+    }else if(ganador == "play2"){
+    window.location.href= "../pages/winner.html"
+}else{  
     }
-    let player1 = document.getElementById("P1").value;
-    let player2 = document.getElementById("P2").value;
-    sessionStorage.setItem("", player1);
-    sessionStorage.setItem("", player2);
-    window.location.href= "../pages/winner.html";
-
-
 }
+
+
+
+
 
 const winnerComb = () => {
-    
+//Me declaro dos variables para poder comparar y poder registrar el nombre para guardarlo en Storage.
 
         
-    if(board[0] == play1 && board[1] == play1 && board[2] == play1){showWinner (play1)}
-    if(board[0] == play2 && board[1] == play2 && board[2] == play2){showWinner (play2)}
+    if(board[0] == play1 && board[1] == play1 && board[2] == play1){showWinner(ganador = "play1")}
+    if(board[0] == play2 && board[1] == play2 && board[2] == play2){showWinner(ganador = "play2")}
     
 
-    if(board[3] == play1 && board[4] == play1 && board[5] == play1){showWinner (play1)}
-    if(board[3] == play2 && board[4] == play2 && board[5] == play2){showWinner (play2)}
+    if(board[3] == play1 && board[4] == play1 && board[5] == play1){showWinner (ganador = "play1")}
+    if(board[3] == play2 && board[4] == play2 && board[5] == play2){showWinner (ganador = "play2")}
 
-    if(board[6] == play1 && board[7] == play1 && board[8] == play1){showWinner (play1)}
-    if(board[6] == play2 && board[7] == play2 && board[8] == play2){showWinner (play2)}
+    if(board[6] == play1 && board[7] == play1 && board[8] == play1){showWinner (ganador = "play1")}
+    if(board[6] == play2 && board[7] == play2 && board[8] == play2){showWinner (ganador = "play2")}
 
-    if(board[0] == play1 && board[3] == play1 && board[6] == play1){showWinner (play1)}
-    if(board[0] == play2 && board[3] == play2 && board[6] == play2){showWinner (play2)}
+    if(board[0] == play1 && board[3] == play1 && board[6] == play1){showWinner (ganador = "play1")}
+    if(board[0] == play2 && board[3] == play2 && board[6] == play2){showWinner (ganador = "play2")}
 
-    if(board[1] == play1 && board[4] == play1 && board[7] == play1){showWinner (play1)}
-    if(board[1] == play2 && board[4] == play2 && board[7] == play2){showWinner (play2)}
+    if(board[1] == play1 && board[4] == play1 && board[7] == play1){showWinner (ganador = "play1")}
+    if(board[1] == play2 && board[4] == play2 && board[7] == play2){showWinner (ganador = "play2")}
 
-    if(board[2] == play1 && board[5] == play1 && board[8] == play1){showWinner (play1)}
-    if(board[2] == play2 && board[5] == play2 && board[8] == play2){showWinner (play2)}
+    if(board[2] == play1 && board[5] == play1 && board[8] == play1){showWinner (ganador = "play1")}
+    if(board[2] == play2 && board[5] == play2 && board[8] == play2){showWinner (ganador = "play2")}
 
-    if(board[0] == play1 && board[4] == play1 && board[8] == play1){showWinner (play1)}
-    if(board[0] == play2 && board[4] == play2 && board[8] == play2){showWinner (play2)}
+    if(board[0] == play1 && board[4] == play1 && board[8] == play1){showWinner (ganador = "play1")}
+    if(board[0] == play2 && board[4] == play2 && board[8] == play2){showWinner (ganador = "play2")}
 
-    if(board[2] == play1 && board[4] == play1 && board[6]== play1){showWinner (play1)}
-    if(board[2] == play2 && board[4] == play2 && board[6]== play2){showWinner (play2)}
+    if(board[2] == play1 && board[4] == play1 && board[6]== play1){showWinner (ganador = "play1")}
+    if(board[2] == play2 && board[4] == play2 && board[6]== play2){showWinner (ganador = "play2")}
 
 }
+
+
 
 
