@@ -8,6 +8,7 @@ body{
     font-family: 'Press Start 2P', cursive;
     color: rgb(32, 190, 32);
 }
+
 .box2{
     height: 80vh;
     color: rgb(32, 190, 32);
@@ -22,13 +23,8 @@ body{
     background-color: black;
     font-family: 'Press Start 2P', cursive;
     color: rgb(32, 190, 32);
+}
 
-}
-.box3-2{
-    background-color: black;
-    font-family: 'Press Start 2P', cursive;
-    color: rgb(32, 190, 32);
-}
 .container{
     background-color: black;
     display: grid;
@@ -45,12 +41,6 @@ body{
 .luz{
 padding-top: 6vh;
 cursor: pointer;}
-
-
-.luz:hover{
-scale: 1.1;
-transition: 03s;
-}
 
 a{
     text-decoration: none;
