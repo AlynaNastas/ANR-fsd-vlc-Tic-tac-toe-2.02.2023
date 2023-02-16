@@ -26,6 +26,7 @@ let turn = "X"
 
 const changeTurn = () => {
 turn = (turn == "X") ? "O" : "X"; // Si el turno esta en X lo cambia a O y si esta en la O a X.
+document.getElementById("roll").innerHTML = turn 
 
 };
 
@@ -54,15 +55,9 @@ const pressCell = (position) => {
 }
 
 
-const showWinner = (ganador ) =>{
-
-if(ganador == "play1" ){
+const showWinner = (ganador) =>{
+    sessionStorage.setItem("winner", ganador);
     window.location.href= "../pages/winner.html"
-    
-    }else if(ganador == "play2"){
-    window.location.href= "../pages/winner.html"
-}else{  
-    }
 }
 
 
@@ -95,8 +90,8 @@ const winnerComb = () => {
     if(board[0] == play1 && board[4] == play1 && board[8] == play1){showWinner (ganador = "play1")}
     if(board[0] == play2 && board[4] == play2 && board[8] == play2){showWinner (ganador = "play2")}
 
-    if(board[2] == play1 && board[4] == play1 && board[6]== play1){showWinner (ganador = "play1")}
-    if(board[2] == play2 && board[4] == play2 && board[6]== play2){showWinner (ganador = "play2")}
+    if(board[2] == play1 && board[4] == play1 && board[6]== play1){showWinner  (ganador = "play1")}
+    if(board[2] == play2 && board[4] == play2 && board[6]== play2){showWinner  (ganador = "play2")}
 
 }
 
