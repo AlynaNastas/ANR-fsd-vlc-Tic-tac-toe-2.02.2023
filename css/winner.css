@@ -8,9 +8,15 @@ body{
     color: rgb(32, 190, 32);
 }
 a{
-
-    height: 10vh;
+    height: 15vh;
     font-family: 'Press Start 2P', cursive;
     text-decoration: none;
     color: aliceblue;
+}
+
+.winName{
+
+    font-family: 'Press Start 2P', cursive;
+    color: rgb(32, 190, 32);
+    padding-top: 10vh;
 }
