@@ -41,8 +41,8 @@ El respositorio se encuentra en GitHub, aquí les adjunto el enlace:https://gith
 
 ![pag principal imputs](https://user-images.githubusercontent.com/121962750/219699220-d0bbc629-691a-41fe-b482-a34a8c051e87.png)
 ![Captura de Pantalla 2023-02-17 a las 17 32 12](https://user-images.githubusercontent.com/121962750/219710709-51c4c246-e855-4a86-a413-5a50c48ce1c8.png)
-![re](https://user-images.githubusercontent.com/121962750/218306500-62bd1cdd-934a-41e9-8772-56d49b5f412b.png)
-![try](https://user-images.githubusercontent.com/121962750/218306504-46dcfb60-9aa6-48fb-a6fa-b111160a3b62.png)
+![Captura de Pantalla 2023-02-17 a las 17 34 01](https://user-images.githubusercontent.com/121962750/219711251-74114e75-276b-40e5-bb95-e47f7fa58555.png)
+![Captura de Pantalla 2023-02-17 a las 17 34 23](https://user-images.githubusercontent.com/121962750/219711286-57455176-0223-4b2e-bd6f-eef5993c9996.png)
 
 
 ## License
