@@ -40,7 +40,7 @@ El respositorio se encuentra en GitHub, aquí les adjunto el enlace:https://gith
 
 
 ![pag principal imputs](https://user-images.githubusercontent.com/121962750/219699220-d0bbc629-691a-41fe-b482-a34a8c051e87.png)
-![juego](https://user-images.githubusercontent.com/121962750/218306014-30a9feb0-4f50-4451-b114-e40b8bf338d2.png)
+![Captura de Pantalla 2023-02-17 a las 17 32 12](https://user-images.githubusercontent.com/121962750/219710709-51c4c246-e855-4a86-a413-5a50c48ce1c8.png)
 ![re](https://user-images.githubusercontent.com/121962750/218306500-62bd1cdd-934a-41e9-8772-56d49b5f412b.png)
 ![try](https://user-images.githubusercontent.com/121962750/218306504-46dcfb60-9aa6-48fb-a6fa-b111160a3b62.png)
 
