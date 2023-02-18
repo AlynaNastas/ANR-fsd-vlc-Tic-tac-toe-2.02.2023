@@ -40,7 +40,7 @@ El respositorio se encuentra en GitHub, aquí les adjunto el enlace:https://gith
 
 
 ![pag principal imputs](https://user-images.githubusercontent.com/121962750/219699220-d0bbc629-691a-41fe-b482-a34a8c051e87.png)
-![Captura de Pantalla 2023-02-17 a las 17 32 12](https://user-images.githubusercontent.com/121962750/219710709-51c4c246-e855-4a86-a413-5a50c48ce1c8.png)
+![turn](https://user-images.githubusercontent.com/121962750/219883510-c92c50d7-6cbe-4527-a781-cb7c513503f9.png)
 ![Captura de Pantalla 2023-02-17 a las 17 34 01](https://user-images.githubusercontent.com/121962750/219711251-74114e75-276b-40e5-bb95-e47f7fa58555.png)
 ![Captura de Pantalla 2023-02-17 a las 17 34 23](https://user-images.githubusercontent.com/121962750/219711286-57455176-0223-4b2e-bd6f-eef5993c9996.png)
 
