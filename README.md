@@ -32,8 +32,6 @@ El respositorio se encuentra en GitHub, aquí les adjunto el enlace:https://gith
 
 - El jugador con la "X" empieza. el primer jugador en marcar las tres fichas en vertical, horizontal, o diagonal gana el juego.
 
-- El primero que logra hacer una fila con sus tres piezas, gana. 
-
 - En esta variante, con un juego perfecto de ambos bandos, siempre conseguirá la victoria quien empieza la partida.
 
 
