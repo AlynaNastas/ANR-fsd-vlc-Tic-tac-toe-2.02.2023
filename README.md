@@ -37,12 +37,11 @@ El respositorio se encuentra en GitHub, aquí les adjunto el enlace:https://gith
 - En esta variante, con un juego perfecto de ambos bandos, siempre conseguirá la victoria quien empieza la partida.
 
 
+![pag principal imputs](https://user-images.githubusercontent.com/121962750/219884431-e8ef308f-1c90-437c-ba47-98a0eab3dc11.png)
+![Captura de Pantalla 2023-02-18 a las 20 24 18](https://user-images.githubusercontent.com/121962750/219884433-7a0a3668-538f-4bd3-b837-0fa0fa90a3a4.png)
+![Captura de Pantalla 2023-02-17 a las 17 34 01](https://user-images.githubusercontent.com/121962750/219884438-4dc8f4fd-0803-40a2-9db1-6a235799fdde.png)
+![Captura de Pantalla 2023-02-17 a las 17 34 23](https://user-images.githubusercontent.com/121962750/219884441-433202c2-3e61-4cbf-bf23-de3e6caaedf1.png)
 
-
-![principal](https://user-images.githubusercontent.com/121962750/218306005-4e8d4fba-276e-4c83-b6e1-5ef5da090caa.png)
-![juego](https://user-images.githubusercontent.com/121962750/218306014-30a9feb0-4f50-4451-b114-e40b8bf338d2.png)
-![re](https://user-images.githubusercontent.com/121962750/218306500-62bd1cdd-934a-41e9-8772-56d49b5f412b.png)
-![try](https://user-images.githubusercontent.com/121962750/218306504-46dcfb60-9aa6-48fb-a6fa-b111160a3b62.png)
 
 ## License
 
