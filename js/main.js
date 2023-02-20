@@ -10,7 +10,7 @@ const play = () => {
     if (player1 != "" && player2 != "") {
         sessionStorage.setItem("nombre1", player1);
         sessionStorage.setItem("nombre2", player2);
-        window.location.href= "../pages/games.html";   
+        window.location.href= "./pages/games.html";   
     } else {
         alert("Tienes que introducir todos los nombres");
     }
